@@ -48,6 +48,21 @@ body {
   margin-left: 20px;
 
 }
+
+.product-info{
+  width: 400px;
+  border: 2px solid black;
+  padding: 15px 30px;
+  margin:auto;
+  border-radius: 10px;
+  background-color: rgb(255, 184, 184);
+}
+
+.img-info{
+  width: 250px;
+  height: 200px;
+  margin:auto
+}
 #all-products {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
